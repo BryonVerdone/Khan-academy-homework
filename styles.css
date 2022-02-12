@@ -27,3 +27,18 @@ a {
 .nav-links {
   margin: 1rem;
 }
+main {
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  margin-bottom: 1rem;
+}
+.btn {
+  color: white;
+  background: #1865f2;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
